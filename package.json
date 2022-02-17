@@ -1,7 +1,7 @@
 {
   "name": "jest-test",
   "version": "1.0.0",
-  "description": "",
+  "description": "Praticando Sempre!",
   "main": "index.js",
   "scripts": {
     "test": "jest --coverage"
